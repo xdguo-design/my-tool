@@ -25,6 +25,10 @@ node --test tests/*.test.mjs
 4. HTTPS 稳定后增加 HSTS：`Strict-Transport-Security: max-age=31536000; includeSubDomains`。
 5. 上线前确认 `robots.txt`、`sitemap.xml`、canonical、hreflang 和 JSON-LD 与真实域名一致。
 
+## Vercel 部署
+
+Vercel 项目应将 `site` 设置为 Root Directory，Framework Preset 使用 `Other`，Build Command、Output Directory 和 Install Command 保持空白。根目录入口会自动跳转到 `/zh-cn/`，三个语言入口分别为 `/zh-cn/`、`/en/` 和 `/ru/`。
+
 ## 内容维护
 
 多语言内容集中在 `site/src/content.mjs`，页面结构集中在 `site/src/template.mjs`。修改内容后重新运行构建命令即可生成三种语言页面。
