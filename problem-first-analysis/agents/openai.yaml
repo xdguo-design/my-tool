@@ -1,0 +1,4 @@
+interface:
+  display_name: "Problem First Analysis"
+  short_description: "Diagnose problems before proposing solutions"
+  default_prompt: "Analyze this artifact or situation first: identify evidence-backed problems, root causes, priorities, and then give mapped solutions with acceptance criteria."
