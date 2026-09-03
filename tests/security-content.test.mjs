@@ -17,3 +17,11 @@ test('部署说明明确 HTTPS 和三语言路径', async () => {
   assert.match(readme, /English/);
   assert.match(readme, /Русский/);
 });
+
+test('Vercel 静态部署有根路径入口和安全头配置', async () => {
+  const entry = await fs.readFile('site/index.html', 'utf8');
+  const config = await fs.readFile('site/vercel.json', 'utf8');
+  assert.match(entry, /\/zh-cn\//);
+  assert.match(config, /Content-Security-Policy/);
+  assert.match(config, /X-Content-Type-Options/);
+});
