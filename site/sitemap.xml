@@ -1,18 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.balenda.cn/zh-cn/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.balenda.cn/zh-cn/solutions/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.balenda.cn/zh-cn/products/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/solutions/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/products/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://www.balenda.cn/zh-cn/cases/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/zh-cn/resources/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.balenda.cn/en/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/products/automatic-batching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/products/belt-scale/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/products/load-cell/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/products/loading-automation/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/solutions/steel-metallurgy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/solutions/cement-building-materials/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/solutions/ports-logistics/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/solutions/power-energy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/cases/cement-dispatch/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/cases/coal-loading-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/cases/metallurgy-batching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/resources/select-industrial-load-cell/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/resources/belt-scale-errors/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/zh-cn/resources/batching-plc-integration/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/en/solutions/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/en/products/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/en/cases/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/en/resources/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.balenda.cn/ru/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.balenda.cn/en/products/automatic-batching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/products/belt-scale/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/products/load-cell/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/products/loading-automation/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/solutions/steel-metallurgy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/solutions/cement-building-materials/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/solutions/ports-logistics/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/solutions/power-energy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/cases/cement-dispatch/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/cases/coal-loading-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/cases/metallurgy-batching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/resources/select-industrial-load-cell/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/resources/belt-scale-errors/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/en/resources/batching-plc-integration/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/ru/solutions/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/ru/products/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/ru/cases/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.balenda.cn/ru/resources/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/products/automatic-batching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/products/belt-scale/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/products/load-cell/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/products/loading-automation/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/solutions/steel-metallurgy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/solutions/cement-building-materials/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/solutions/ports-logistics/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/solutions/power-energy/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/cases/cement-dispatch/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/cases/coal-loading-station/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/cases/metallurgy-batching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/resources/select-industrial-load-cell/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/resources/belt-scale-errors/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.balenda.cn/ru/resources/batching-plc-integration/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

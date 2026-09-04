@@ -1,0 +1,10 @@
+{
+  "name": "balenda-static-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check:seo": "node tests/check-seo.mjs"
+  }
+}
