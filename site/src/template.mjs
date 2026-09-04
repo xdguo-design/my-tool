@@ -129,7 +129,7 @@ function renderAbout(data) {
 }
 
 function renderConsultation(data) {
-  return `<section id="contact" class="consultation-band"><div class="container consultation-inner"><div><p class="kicker">04 / ${escapeHtml(data.sectionLabels.contact)}</p><h2>${lines(data.contactTitle)}</h2><p>${escapeHtml(data.contactText)}</p></div><div class="consultation-card"><span>${escapeHtml(data.ui.start)}</span><a href="tel:${data.mobile.replace(/[^+\d]/g, '')}">${escapeHtml(data.mobile)}</a><a href="mailto:${escapeHtml(data.email)}">${escapeHtml(data.email)}</a><figure class="consultation-wechat"><img src="${escapeHtml(data.wechatQr)}" width="950" height="1295" alt="${escapeHtml(data.wechatHint)}" loading="lazy"><figcaption>${escapeHtml(data.wechatHint)}</figcaption></figure><a class="button button-dark" href="mailto:${escapeHtml(data.email)}">${escapeHtml(data.primaryCta)} <span>↗</span></a></div></div></section>`;
+  return `<section id="contact" class="consultation-band"><div class="container consultation-inner"><div><p class="kicker">04 / ${escapeHtml(data.sectionLabels.contact)}</p><h2>${lines(data.contactTitle)}</h2><p>${escapeHtml(data.contactText)}</p></div><div class="consultation-card"><span>${escapeHtml(data.ui.start)}</span><a href="tel:${data.mobile.replace(/[^+\d]/g, '')}">${escapeHtml(data.mobile)}</a><a href="mailto:${escapeHtml(data.email)}">${escapeHtml(data.email)}</a><figure class="consultation-wechat"><img src="${escapeHtml(data.wechatQr)}" width="950" height="1295" alt="${escapeHtml(data.wechatAlt)}" loading="lazy"></figure><a class="button button-dark" href="mailto:${escapeHtml(data.email)}">${escapeHtml(data.primaryCta)} <span>↗</span></a></div></div></section>`;
 }
 
 function renderShell(locale, data, head, body, pageHref, currentPath) {
