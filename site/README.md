@@ -20,3 +20,7 @@ npm run check:seo
 4. 重新运行 `npm run build`，检查生成 HTML 后再发布。不要把 API 密钥、token 或后台凭据写入此静态仓库。
 
 Vercel 使用 `vercel.json` 的 308 规则，IIS 使用 `web.config` 的永久重定向规则，将根路径 `/` 指向 `/zh-cn/`。
+
+## Vercel 部署配置
+
+仓库根目录的 `vercel.json` 面向「以 GitHub 仓库根作为 Vercel 项目根」的部署方式：`buildCommand` 进入 `site/` 执行构建，`outputDirectory` 指向 `site/`，路由规则与 `site/vercel.json` 保持一致（后者用于在控制台把 Root Directory 设置为 `site` 的部署方式，两种方式二选一即可）。
