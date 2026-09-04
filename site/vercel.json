@@ -1,4 +1,5 @@
 {
+  "outputDirectory": ".",
   "trailingSlash": true,
   "redirects": [
     { "source": "/", "destination": "/zh-cn/", "statusCode": 308 }

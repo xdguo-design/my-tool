@@ -1,0 +1,114 @@
+[    1317ms] [LOG] %c
+▲
+
+    ________   _ __ _          ____           __
+   /  _/ __/  (_) /( )_____   / __/___ ______/ /_
+   / // /_   / / __/// ___/  / /_/ __ `/ ___/ __/
+ _/ // __/  / / /_  (__  )  / __/ /_/ (__  ) /_
+/___/_/    /_/\__/ /____/  /_/  \__,_/____/\__/
+    _ __ _                         _    __                    __
+   (_) /( )_____   ____  ____     | |  / /__  _____________  / /
+  / / __/// ___/  / __ \/ __ \    | | / / _ \/ ___/ ___/ _ \/ /
+ / / /_  (__  )  / /_/ / / / /    | |/ /  __/ /  / /__/  __/ /
+/_/\__/ /____/   \____/_/ /_/     |___/\___/_/   \___/\___/_/
+  
+
+Hello!
+
+- Open Source https://vercel.com/oss
+- Careers https://vercel.com/careers
+- Status https://www.vercel-status.com
+
+ font-family: "Geist Mono", monospace; white-space: pre; line-height: 1; @ https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:78
+[    1613ms] [WARNING] iso_swr: SSR fetch failed for "/api/dashboard/deployments/dpl_BWuXWut3rvJfTvz584Y7EUGAFe9D?includeDeleted=true&projectName=my-tool&teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/balabala5/my-tool/BWuXWut3rvJfTvz584Y7EUGAFe9D:77
+[    1613ms] [WARNING] iso_swr: SSR fetch failed for "/v1/dashboard/projects/my-tool?teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/balabala5/my-tool/BWuXWut3rvJfTvz584Y7EUGAFe9D:77
+[    1627ms] [WARNING] iso_swr: SSR fetch failed for "/api/v2/teams/balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/balabala5/my-tool/BWuXWut3rvJfTvz584Y7EUGAFe9D:108
+[    1627ms] [WARNING] iso_swr: SSR fetch failed for "/v1/dashboard/deployments/dpl_BWuXWut3rvJfTvz584Y7EUGAFe9D?includeDeleted=true&projectName=my-tool&teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/balabala5/my-tool/BWuXWut3rvJfTvz584Y7EUGAFe9D:108
+[    1628ms] [WARNING] iso_swr: SSR fetch failed for "/api/v9/projects/my-tool?latestDeployments=0&rollbackInfo=true&teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/balabala5/my-tool/BWuXWut3rvJfTvz584Y7EUGAFe9D:108
+[    2322ms] [WARNING] iso_swr[warn] [client] fallback error for key: "/api/v2/teams/balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/_next/static/immutable/chunks/3x25qsh_eznqe.js:1
+[    2348ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at r6 (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:48012)
+    at iz (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:102152)
+    at sX (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:145161)
+    at https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:145006
+    at sY (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:145014)
+    at sj (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:140175)
+    at ck (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:175009)
+    at cv (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:172912)
+    at cb (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:173269)
+    at https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:175068
+[    2361ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at r6 (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:48012)
+    at iz (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:102152)
+    at sX (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:145161)
+    at https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:145006
+    at sY (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:145014)
+    at sj (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:140175)
+    at ck (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:175009)
+    at cv (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:172912)
+    at cb (https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:173269)
+    at https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:109:175068
+[    2364ms] [WARNING] iso_swr[warn] [client] fallback error for key: "/v1/dashboard/projects/my-tool?teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/_next/static/immutable/chunks/3x25qsh_eznqe.js:1
+[    2386ms] [WARNING] iso_swr[warn] [client] fallback error for key: "/api/v9/projects/my-tool?latestDeployments=0&rollbackInfo=true&teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/_next/static/immutable/chunks/3x25qsh_eznqe.js:1
+[    2473ms] [WARNING] iso_swr[warn] [client] fallback error for key: "/v1/dashboard/deployments/dpl_BWuXWut3rvJfTvz584Y7EUGAFe9D?includeDeleted=true&projectName=my-tool&teamId=balabala5" {error: iso_swr_fetch_error, message: The request is missing an authentication token} @ https://vercel.com/_next/static/immutable/chunks/3x25qsh_eznqe.js:1
+[    3553ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/v1/dashboard/projects/my-tool?teamId=balabala5:0
+[    3554ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/v1/notifications/push:0
+[    3554ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/jwt:0
+[    3556ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/v2/teams/balabala5:0
+[    3559ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/v9/projects/my-tool?latestDeployments=0&rollbackInfo=true&teamId=balabala5:0
+[    3559ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/v1/dashboard/deployments/dpl_BWuXWut3rvJfTvz584Y7EUGAFe9D?includeDeleted=true&projectName=my-tool&teamId=balabala5:0
+[    3560ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/user/permissions?projectIdOrName=my-tool&slug=balabala5:0
+[    3610ms] [WARNING] Deprecated API for given entry type. @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:18
+[    3691ms] [LOG] Ignored request error CustomFetchError: The request is missing an authentication token
+    at m (https://vercel.com/_next/static/immutable/chunks/3o7hfg6m0bcce.js:2:31216)
+    at async https://vercel.com/_next/static/immutable/chunks/0dicr_a6c53ew.js:2:11588 @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:16
+[    3692ms] [LOG] Ignored request error CustomFetchError: The request is missing an authentication token
+    at m (https://vercel.com/_next/static/immutable/chunks/3o7hfg6m0bcce.js:2:31216)
+    at async https://vercel.com/_next/static/immutable/chunks/0dicr_a6c53ew.js:2:11588 @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:16
+[    3692ms] [LOG] Ignored request error CustomFetchError: The request is missing an authentication token
+    at m (https://vercel.com/_next/static/immutable/chunks/3o7hfg6m0bcce.js:2:31216)
+    at async https://vercel.com/_next/static/immutable/chunks/022_1e1d3z_c0.js:2:14808
+    at async https://vercel.com/_next/static/immutable/chunks/0dicr_a6c53ew.js:2:11588 @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:16
+[    3692ms] [LOG] Ignored request error CustomFetchError: The request is missing an authentication token
+    at m (https://vercel.com/_next/static/immutable/chunks/3o7hfg6m0bcce.js:2:31216)
+    at async https://vercel.com/_next/static/immutable/chunks/0dicr_a6c53ew.js:2:11588 @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:16
+[    3744ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/dash-tips?teamId=balabala5:0
+[    3747ms] [LOG] Ignored request error CustomFetchError: You don't have permission to access this resource.
+    at m (https://vercel.com/_next/static/immutable/chunks/3o7hfg6m0bcce.js:2:31216)
+    at async o.revalidateOnFocus (https://vercel.com/_next/static/immutable/chunks/1bm3tr385z_91.js:2:2221)
+    at async https://vercel.com/_next/static/immutable/chunks/0dicr_a6c53ew.js:2:11588 @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:16
+[    4453ms] [LOG] %c
+▲
+
+__  __                                     _            __
+\ \/ /___  __  __   _________ _____       (_)_  _______/ /_
+ \  / __ \/ / / /  / ___/ __ `/ __ \     / / / / / ___/ __/
+ / / /_/ / /_/ /  / /__/ /_/ / / / /    / / /_/ (__  ) /_
+/_/\____/\__,_/   \___/\__,_/_/ /_/  __/ /\__,_/____/\__/
+         __    _          __  __    /___/
+   _____/ /_  (_)___     / /_/ /_  (_)___  ____ ______
+  / ___/ __ \/ / __ \   / __/ __ \/ / __ \/ __ `/ ___/
+ (__  ) / / / / /_/ /  / /_/ / / / / / / / /_/ (__  )
+/____/_/ /_/_/ .___/   \__/_/ /_/_/_/ /_/\__, /____/
+            /_/                         /____/
+  
+
+Hello!
+
+- Open Source https://vercel.com/oss
+- Careers https://vercel.com/careers
+- Status https://www.vercel-status.com
+
+ font-family: "Geist Mono", monospace; white-space: pre; line-height: 1; @ https://vercel.com/_next/static/immutable/chunks/09bognj3n0dzk.js:78
+[    4945ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://vercel.com/api/jwt:0
+[    5172ms] [WARNING] Deprecated API for given entry type. @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:18
+[    5563ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://vercel.com/_next/static/immutable/chunks/3vuaw0m6zroe4.js:16
+[    5567ms] [ERROR] Not signed in with the identity provider. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
+[    9006ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/42nryff-e0b-n.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
+[    9006ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/3t_-x9195y9o-.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
+[    9006ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/3flhcz7cw314y.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
+[    9774ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://vercel.com/_next/static/immutable/chunks/443eh85mmmbfj.js:8
+[    9941ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://o205439.ingest.sentry.io/api/1323670/envelope/?sentry_key=d00780d432ac4ccf882f60dd02062e14&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.111.0:0
+[   13003ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/42nryff-e0b-n.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
+[   13003ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/3t_-x9195y9o-.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
+[   13003ms] [WARNING] The resource https://vercel.com/_next/static/immutable/chunks/3flhcz7cw314y.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vercel.com/login?next=%2Fbalabala5%2Fmy-tool%2FBWuXWut3rvJfTvz584Y7EUGAFe9D:0
